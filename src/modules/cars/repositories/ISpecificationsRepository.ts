@@ -11,4 +11,4 @@ interface ISPecificationsRepository {
     list(): Specification[];
 }
 
-export { ISPecificationsRepository, ICreateSpecificationDTO }
+export { ISPecificationsRepository, ICreateSpecificationDTO };

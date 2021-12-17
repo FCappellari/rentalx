@@ -22,4 +22,4 @@ class CreateSpecificationService {
     }
 }
 
-export { CreateSpecificationService }
+export { CreateSpecificationService };
